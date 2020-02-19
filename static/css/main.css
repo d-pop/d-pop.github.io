@@ -227,7 +227,7 @@ hr {
 #nav-bg {
   margin: 0;
   padding: 0.25rem 1rem;
-  font-family: "Source Code Pro", "Menlo", "DejaVu Sans Mono", "Lucida Console", monospace;
+  font-family: Helvetica, sans-serif;
   background: #54008c;
   color: #fff;
 }
@@ -344,7 +344,7 @@ input[type=checkbox]:checked ~ .menu-label:after {
       }
 
     #nav-bg, a#logo, #top-nav a {
-      background-color: #A6E22E;
+      background-color: #facf6e;
       color: #202020;
     }
 
