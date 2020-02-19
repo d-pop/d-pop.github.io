@@ -1,6 +1,6 @@
 # Setup
 title: 'the missing semester of your cs education'
-#url: https://missing.csail.mit.edu
+url: https://d-dpop.github.io
 
 # Settings
 markdown: kramdown
@@ -14,8 +14,8 @@ future: true
 timezone: America/New_York
 
 collections:
-        #  '2020':
-        #output: true
+    '2020':
+        output: true
 
 # Excludes
 exclude:
