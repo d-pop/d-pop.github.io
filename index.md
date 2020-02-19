@@ -3,6 +3,8 @@ layout: page
 title: D-Pop
 ---
 
+<img src="static/media/img/IMG_0843.PNG" alt="hi" class="inline"/>
+
 Classes teach you all about advanced topics within CS, from operating systems
 to machine learning, but there’s one critical subject that’s rarely covered,
 and is instead left to students to figure out on their own: proficiency with
