@@ -43,6 +43,6 @@ Deltagerne skal kunne komme ind og ud, gerne en halv time inden og efter arrange
 
 * Yde hjælp til opvarmingsøvelserne (så godt du nu kan)
 
-* Udvælge og muligvis forberede D-Pop-stjerner til at yde hjælp under arrangementet
+* Udvælge og muligvis forberede D-popstjerner til at yde hjælp under arrangementet. Du kan også selv være en. Se [hvordan man bliver d-popstjerne](/d-popstjerne/).
 
 * Bygge videre undervisningsforløb i anslutning til D-Pop baseret på de svære opgaver. Materialet bliver gjort tilgængelig under en passende licens som fx CC-BY-SA, så du kan bygge videre og forandre alt hvad du vil.

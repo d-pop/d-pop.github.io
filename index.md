@@ -37,7 +37,6 @@ Læs mere på [d-popstjerne](/d-popstjerne/).
 ---
 
 <div class="small center">
-<p><a href="https://github.com/d-pop/d-pop.github.io">Source code</a>.</p>
-<p>Licensed under CC BY-NC-SA.</p>
-<p>See <a href="/license">here</a> for contribution &amp; translation guidelines.</p>
+<p><a href="https://github.com/d-pop/d-pop.github.io">Kildekode</a>.</p>
+<p>Licens: CC BY-NC-SA, se <a href="/license">here</a>.</p>
 </div>

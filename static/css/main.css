@@ -228,7 +228,8 @@ hr {
   margin: 0;
   padding: 0.25rem 1rem;
   font-family: Helvetica, sans-serif;
-  background: #54008c;
+  background-color: #FFC0CB;
+  background-image: "/static/media/img/IMG_0843.PNG";
   color: #fff;
 }
 
