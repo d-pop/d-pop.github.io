@@ -1,5 +1,5 @@
 # Setup
-title: 'the missing semester of your cs education'
+title: 'D-Pop 2020 foreløbig webside'
 url: https://d-dpop.github.io
 
 # Settings
@@ -11,11 +11,8 @@ highlighter: rouge
 permalink: /:title/
 future: true
 # safe: true # breaks local rendering if enabled
-timezone: America/New_York
+timezone: Denmark/Copenhagen
 
-collections:
-    '2020':
-        output: true
 
 # Excludes
 exclude:
