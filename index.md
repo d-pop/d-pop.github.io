@@ -32,7 +32,7 @@ I stedet for selv at deltage selv kan du hjælpe andre videre under dit lokale D
 Så får du nogle af problemerne på forhånd, sammen med vejledningsmateriale, og kan forberede dig.
 Og en poppet t-shirt, så du er synlig.
 Perfekt for viderekomne studerene eller lærere.
-Læs mere på [d-popstjerne](/d-popstjerne/).
+Læs mere på [stjerne](/stjerne/).
 
 ---
 
