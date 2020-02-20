@@ -22,7 +22,7 @@ Læs mere på [deltager](/deltager/).
 
 # Bliv vært
 
-Du kan blive vært for et lokalt D-Pop-arrangement, fx på dit gymnasium eller på din arbejdsplads, hvadenten det er for 5 eller 100 deltagere, for dine venner, elever, medkollegianere eller kolleger.
+Du kan blive vært for et lokalt D-Pop-arrangement, fx på dit gymnasium eller på din arbejdsplads, hvad enten det er for 5 eller 100 deltagere, for dine venner, elever, medkollegianere eller kolleger.
 Åbent for eller for en lille kreds.
 Det skal være nemt at blive vært og kræver bare nogle borde og internetadgang for deltagerne.
 Læs mere på [vært](/vært/).
