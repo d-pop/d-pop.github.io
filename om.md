@@ -18,7 +18,7 @@ Formålet med D-Pop er at
 D-Pop er lavet af Thore Husfeldt, professor på ITU, som har hovedansvaret for koncept og indhold.
 Thore får både formel og uformel hjælp af en masse organisationer og enkeltpersoner, inklusive datalogiinstitutterne, Jobindex og Kattis.
 
-Ansvaret for de lokale arrangementer er spredt ud over lokale værter, se [kendte arrangementer](/arrangementer/) eller være med og [bliv vært](/vært/).
+Ansvaret for de lokale arrangementer er spredt ud over lokale værter, se [kendte arrangementer](/arrangementer/) eller vær med og [bliv vært](/vært/) selv.
 
 ## Problemkomité 
 
@@ -50,7 +50,8 @@ Det forventes, at ikke alle disse ting når at komme på plads i 2020.
 # Værdier og principper
 
 D-Pops kerneværdier er problemløsning, samarbejde, programmering, oplysning, åbenhed, ærlighed, tilgængelighed, hjælpsomhed og kompetence.
-Som konsekvens af nogle af disse værdier undgår D-Pop i modsætning til (udmærkede og hæderværdige) lignende arrangementer bevidst og udtrykkeligt konkurrenceaspektet, fokus er på *at løse problemerne*. 
-Relationen til andre skal være *som allieret* i opgaven et løse et problem (fx »min holdkammerat« eller »nogen der ved mere end mig og kan hjælpe mig« eller »nogen jeg kan hjælpe«), men ikke *som modstander*.
+Som konsekvens af nogle af disse værdier undgår D-Pop i modsætning til (udmærkede og hæderværdige) lignende arrangementer bevidst og udtrykkeligt konkurrenceaspektet. 
+Fokus er på *at løse problemerne*, ikke på at *vinde noget* eller *slå nogen*.
+Relationen til andre skal være *som allieret* i opgaven et løse et problem (fx »min holdkammerat« eller »nogen der ved mere end mig og kan hjælpe mig« eller »nogen jeg kan hjælpe«), aldrig *som modstander*.
 
 I sin fremtoning er D-Pop umiddelbart tiltalende, på kanten til det banale, og undgår teknologisk æstetik.
