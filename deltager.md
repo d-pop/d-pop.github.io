@@ -16,6 +16,11 @@ Mindst en af jer skal kunne programmere – gentagelse, selektion, variable, str
 I skal kunne snakke sammen om hinandens gode og dårlige ideer.
 Det kræver gode samarbejdsrutiner og behagelige omgangsformer.
 
+## Hvilke sprog?
+
+Problemerne til D-Pop formuleres på dansk.
+Løsningerne skrives i af de gængse, teksbaserede programmeringssprog, som fx Python, Java, forskellige C-dialekter, Javascript/SpiderMonkey, osv.
+Se [listen af programmeringssprog på Kattis](/https://open.kattis.com/help/).
 
 ## Hvor er det henne?
 
