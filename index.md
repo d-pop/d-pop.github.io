@@ -11,6 +11,7 @@ Men D-Pop er åbent for alle, og der skal være noget at tænke over, lære, og 
 # D-Pop 2020
 
 D-Pop 2020 finder sted fredag d. 24. april 2020 kl. 15–18.
+Vi har en (ufuldstændig) liste af [lokale arrangementer](/arrangementer/).
 
 Problemerne vil være tilgængelige på dpop2020.kattis.com.
 
