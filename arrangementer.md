@@ -14,7 +14,8 @@ Hvis du vil være på eller fjernes fra denne liste, send et brev til Amanda på
 
 * RUC. Vært Ebbe Vang.
 
-* Aarhus Universitet, Institut for Datalogi. Værter Asger Hautop Drewsen og Oskar Haarklou Veileborg.
+* Aarhus Universitet, Institut for Datalogi. Værter Asger Hautop Drewsen, Oskar Haarklou Veileborg og Søren Poulsen (poulsen@cs.au.dk)
+
 
 * Syddansk Universitet, Institut for Datalogi. Vært Jakob Lykke Andersen.
 
