@@ -19,6 +19,8 @@ Hvis du vil være på eller fjernes fra denne liste, send et brev til Amanda på
 
 * Syddansk Universitet, Institut for Datalogi. Vært Jakob Lykke Andersen.
 
+* Aalborg Universitet i København, CMI, Department of Electronic Systems (ES). Værter Sokol Kosta (sok@es.aau.dk) og Reza Tadayoni
+
 
 
 
