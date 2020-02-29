@@ -35,7 +35,7 @@ Du kan også deltage hjemmefra. Problemerne vil være på dpop2020.kattis.com.
 
 ## Forberedelse
 
-Hvis du har lyst til at forberede dig, mest for at sikre at de tekniske detaljer er på plads til arrangemtet, kan du gøre det på dpopopvarmning.kattis.com.
-Begynd med »Hej verden«, »Et minusproblem« og »Gæt«.
+Hvis du har lyst til at forberede dig, mest for at sikre at de tekniske detaljer er på plads til arrangemtet, kan du gøre det på [dpopopvarmning.kattis.com](https://dpopopvarmning.kattis.com).
+Begynd med »Hej verden!«, »Forskel« og »Gæt et tal«.
 Fortsæt med »Chokoladeæsken«.
 Der er garanteret problemer, som du ikke kan løse.
