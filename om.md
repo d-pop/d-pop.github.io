@@ -38,14 +38,14 @@ I 2020 er hovedformålet at D-Pop 2020 *finder sted* og har flere en 0 deltagere
 Hertil er hovedarrangørens opgave at 
 
 * der findes 8 problemer på dpop.kattis.com kl. 15, d. 24. april
-* der findes mulighed for at deltagere kan forberede sig inden arrangmentet, forhåbningsvist på dpopopvarmning.kattis.com 
+* der findes mulighed for at deltagere kan forberede sig inden arrangmentet ved at løse beslægtede problemer på [dpopopvarmning.kattis.com](dpopopvarmning.kattis.com). 
 * der produceres noget trykt undervisnings- og forberedelsesmateriale i relation til problemerne, gerne også for d-popstjernerne.
 * der holdes kontakt til lokale arrangører
 * der gøres reklame for D-Pop på landsniveau
-* der skabes en professionel visuel identitet (ud over hvad Thore har strikket sammen på disse sider)
-* navneskilte, t-shirts, plakater, osv.
+* der skabes en visuel identitet
+* navneskilte, t-shirts, plakater, osv. inden for budgetrammerne.
 
-Det forventes, at ikke alle disse ting når at komme på plads i 2020.
+Det forventes, at ikke alle disse ting når at komme på plads i 2020. Det bliver endnu bedre i 2021.
 
 # Værdier og principper
 
