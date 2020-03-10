@@ -325,7 +325,7 @@ input[type=checkbox]:checked ~ .menu-label:after {
 @media (prefers-color-scheme: dark) {
 
     body {
-        background-color: #303030;
+        background-color: #301934;
         color: #ddd
     }
 
