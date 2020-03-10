@@ -2,7 +2,7 @@
 layout: page
 ---
 
-<img src="static/media/img/IMG_0843.PNG" alt="hi" class="inline"/>
+<img src="static/media/img/dpop-large.png" alt="hi" class="inline"/>
 
 D-Pop er et landsdækkende arrangement i holdbaseret problemløsning og programmering.
 Den primære målgruppe er hold af tre personer, som har gennemået hvad der svarer til et grundkursus i programmering, fx på en ungdomsuddannelse eller et universitet, eller ved egen hjælp.
