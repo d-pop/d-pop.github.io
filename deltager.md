@@ -41,4 +41,4 @@ Fortsæt med »Chokoladeæsken«.
 Der er garanteret problemer, som du ikke kan løse.
 
 
-<img src="static/media/img/alex-holyoake.jpg" alt="hi" class="inline"/>
+<img src="/static/media/img/alex-holyoake.jpg" alt="hi" class="inline"/>
