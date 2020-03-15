@@ -20,7 +20,7 @@ Det kræver gode samarbejdsrutiner og behagelige omgangsformer.
 
 Problemerne til D-Pop formuleres på dansk.
 Løsningerne skrives i et af de gængse, tekstbaserede programmeringssprog, som fx Python, Java, forskellige C-dialekter, Javascript/SpiderMonkey, osv.
-Se [listen af programmeringssprog på Kattis](/https://open.kattis.com/help/).
+Se [listen af programmeringssprog på Kattis](https://open.kattis.com/help/).
 
 ## Hvor er det henne?
 
