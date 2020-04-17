@@ -8,12 +8,15 @@ D-Pop er et landsdækkende arrangement i holdbaseret problemløsning og programm
 Den primære målgruppe er hold af tre personer, som har gennemået hvad der svarer til et grundkursus i programmering, fx på en ungdomsuddannelse eller et universitet, eller ved egen hjælp.
 Men D-Pop er åbent for alle, og der skal være noget at tænke over, lære, og blive dygtigere på for alle deltagere.
 
-# D-Pop 2020
+# D-Pop 2020: Corona
 
-D-Pop 2020 finder sted fredag d. 24. april 2020 kl. 15–18.
-Vi har en (ufuldstændig) liste af [lokale arrangementer](/arrangementer/).
+D-Pop 2020 er coronaudskudt til det tidlige efterår 2020.
 
-Problemerne vil være tilgængelige på dpop2020.kattis.com.
+D-Pop 2020 skulle egentlig have fundet sted fredag d. 24. april 2020 kl. 15–18, men fordi D-Pops sociale aspekt har høj prioritet, udskydes det til et senere tidspunkt.
+
+ITUs programmeringsklubben [Lille Kat](https://lillekat.github.io) holder dog fast i det oprindelige tidspunkt, dvs. fredag d. 24. april 2020 kl. 15–18, og arrangerer en tilsvarende aktivitet, [Lille Kat 4](https://open.kattis.com/contests/bwarvf). Den er meget mindre slået op end D-Pop, problemerne er ikke skræddersyede og kun tilgængelige på dansk. Der bliver 6-8 problemer i alle sværhedsgrader. Alle er selvfølgeligt velkomne i at deltage. 
+
+Hvis du er lærer og vil hjælpe din gymnasieklasse igennem problemerne, kontakt Amanda – så får du lov til at smugkigge på problemerne i forvejen og nogle løsningsforslag.
 
 # Deltag
 
