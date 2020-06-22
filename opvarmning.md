@@ -3,7 +3,11 @@ layout: lecture
 title: Opvarmning
 ---
 
-Her finder du en liste af udmærkede problemløsningsopgaver, groft opdelt efter grundlæggende programmeringsfærdighed. Næsten alle  opgaver kræver grundlæggende forståelse af variabler, og nogle kan kræve konvertering mellem variabeltyper, aritmetiske udtryk og sammenligning og håndtering af strenge. Alle kræver grundlæggende færdigheder i interaktion med Kattis-platformen, indlæsning og udlæsning. Problemet »Forskel« bliver løst på [hjælpesiderne for Open Kattis](https://open.kattis.com/help) i alle for Kattis kendte programmeringssprog.
+Her finder du en liste af udmærkede problemløsningsopgaver, groft opdelt efter grundlæggende programmeringsfærdighed.
+
+Næsten alle  opgaver kræver grundlæggende forståelse af variabler, og nogle kan kræve konvertering mellem variabeltyper, aritmetiske udtryk og sammenligning og håndtering af strenge. Alle kræver grundlæggende færdigheder i interaktion med Kattis-platformen, indlæsning og udlæsning. 
+
+Problemet »Forskel« bliver løst på [hjælpesiderne for Open Kattis](https://open.kattis.com/help) i alle for Kattis kendte programmeringssprog.
 
 
 1. Første dag: 
