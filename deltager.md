@@ -36,9 +36,12 @@ Du kan også deltage hjemmefra. Problemerne vil være på dpop2020.kattis.com.
 ## Forberedelse
 
 Hvis du har lyst til at forberede dig, mest for at sikre at de tekniske detaljer er på plads til arrangemtet, kan du gøre det på [dpopopvarmning.kattis.com](https://dpopopvarmning.kattis.com).
-Begynd med »Hej verden!«, »Forskel« og »Gæt et tal«.
-Fortsæt med »Chokoladeæsken«.
-Der er garanteret problemer, som du ikke kan løse.
+Begynd med »Hej verden!«, »Forskel« og måske »Gæt et tal«.
+
+Hvis du kommer så langt, kan du prøve at fortsætte med »Chokoladeæsken«.
+Siden indeholder mange ganske vanskelige problemer med et stærkt problemløsningsaspekt, som vil være vanskelige for nybegyndere.
+
+Hvis du vil have en mere systematisk træning i grundlæggende programmeringsfærdigheder, kan du arbejde dig igennem sættene på [opvarmning](/opvarmning/).
 
 
 <img src="/static/media/img/alex-holyoake.jpg" alt="hi" class="inline"/>
