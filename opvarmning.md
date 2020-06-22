@@ -1,5 +1,7 @@
-# Opvarmning
-
+---
+layout: lecture
+title: Opvarmning
+---
 Her finder du en liste of mange problemløsningsopgaver, groft opdelt efter grundlæggende programmeringsfærdighed.
 
 1. Første dag. Grundlæggende færdigheder i interaktion med Kattis-platformen, indlæsning og udlæsning. 
