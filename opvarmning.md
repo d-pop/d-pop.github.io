@@ -10,18 +10,19 @@ Næsten alle  opgaver kræver grundlæggende forståelse af variabler, og nogle 
 Problemet »Forskel« bliver løst på [hjælpesiderne for Open Kattis](https://open.kattis.com/help) i alle for Kattis kendte programmeringssprog.
 
 
-1. Første dag: 
+1. Første dag med Kattis (mest læsning og skrivning til standardstrømmene): 
   [Hej verden](https://dpopopvarmning.kattis.com/problems/dpopopvarmning.hej) • 
+  [thelastproblem](https://open.kattis.com/problems/thelastproblem) • 
   [Forskel](https://dpopopvarmning.kattis.com/problems/dpopopvarmning.forskel).  
   
-2. Valg: 
+2. Valg (“if”): 
    [isithalloween](https://open.kattis.com/problems/isithalloween) • 
    [aaah](https://open.kattis.com/problems/aaah) • 
    [quadrant](https://open.kattis.com/problems/quadrant) • 
    [tri](https://open.kattis.com/problems/tri) • 
    [cetvrta](https://open.kattis.com/submissions/3511758).
 
-3. Begrænset gentagelse:
+3. Begrænset gentagelse (“for”, “repeat n times”):
    [timeloop](https://open.kattis.com/problems/timeloop) • 
    [cold](https://open.kattis.com/problems/cold) • 
    [babybites](https://open.kattis.com/problems/babybites) • 
@@ -35,7 +36,7 @@ Problemet »Forskel« bliver løst på [hjælpesiderne for Open Kattis](https://
    [autori](https://open.kattis.com/problems/autori) • 
    [skener](https://open.kattis.com/problems/skener).
 
-5. Ubegrænset gentagelse:
+5. Ubegrænset gentagelse (“while”):
    [thanos](https://open.kattis.com/problems/thanos) • 
    [sodaslurper](https://open.kattis.com/problems/sodaslurper) • 
    [pyramidbygge](https://dpopopvarmning.kattis.com/problems/dpopopvarmning.pyramidbygge) • (ufærdigt sæt)
