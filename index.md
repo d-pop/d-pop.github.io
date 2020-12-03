@@ -10,7 +10,7 @@ Men D-Pop er åbent for alle, og der skal være noget at tænke over, lære, og 
 
 # D-Pop 2020: Corona
 
-D-Pop 2020 er coronaudskudt til det tidlige efterår 2020.
+D-Pop 2020 er aflyst.
 
 D-Pop 2020 skulle egentlig have fundet sted fredag d. 24. april 2020 kl. 15–18, men fordi D-Pops sociale aspekt har høj prioritet, udskydes det til et senere tidspunkt.
 
