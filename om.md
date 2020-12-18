@@ -23,7 +23,7 @@ Ansvaret for de lokale arrangementer er spredt ud over lokale værter, se [kendt
 ## Problemkomité 
 
 Udviklingen af *indhold* til D-Pop, dvs. de problemer, som deltagerne møder under arrangementet, gøres af en problemkomité.
-Til D-Pop 2020 består komitéen af
+I 2020-2021 består komitéen af
 
 * Thore Husfeldt (formand)
 * Asger Hautop Drewsen 
@@ -33,19 +33,15 @@ Til D-Pop 2020 består komitéen af
 
 # Hvad gør hovedarrangøren?
 
-I 2020 er hovedformålet at D-Pop 2020 *finder sted* og har flere en 0 deltagere, samt at de involverede har lyst til at arrangere D-Pop 2021.
+Hovedarrangørens opgave er at 
 
-Hertil er hovedarrangørens opgave at 
-
-* der findes 8 problemer på dpop.kattis.com kl. 15, d. 24. april
+* der findes 8 problemer på dpop21.kattis.com kl. 15, d. 23. april 2021
 * der findes mulighed for at deltagere kan forberede sig inden arrangmentet ved at løse beslægtede problemer på [dpopopvarmning.kattis.com](dpopopvarmning.kattis.com). 
 * der produceres noget trykt undervisnings- og forberedelsesmateriale i relation til problemerne, gerne også for d-popstjernerne.
 * der holdes kontakt til lokale arrangører
 * der gøres reklame for D-Pop på landsniveau
 * der skabes en visuel identitet
 * navneskilte, t-shirts, plakater, osv. inden for budgetrammerne.
-
-Det forventes, at ikke alle disse ting når at komme på plads i 2020. Det bliver endnu bedre i 2021.
 
 # Værdier og principper
 
