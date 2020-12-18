@@ -39,7 +39,7 @@ Deltagerne skal kunne komme ind og ud, gerne en halv time inden og efter arrange
 
 * gøre separat reklame for det lokale arrangement, så længe D-Pop-identiteten forbliver synlig.
 
-* I ugerne op til D-pop gøre opmærksom på opvarmningsøvelser på dpop2020opvarmning.kattis.com (når den vel er i luften)
+* I ugerne op til D-pop gøre opmærksom på opvarmningsøvelser på [dpopopvarmning.kattis.com](https://dpopopvarmning.kattis.com) (når den vel er i luften)
 
 * Yde hjælp til opvarmingsøvelserne (så godt du nu kan)
 
