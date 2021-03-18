@@ -3,9 +3,6 @@ layout: lecture
 title: Om D-Pop
 ---
 
-D-pop (Danmarksstævnet for Problemløsning og Programmering) er et forårsarrangement i holdbaseret problemløsning og programming, som afholdes samtidigt rundt om i landet.
-Alle er velkomne til at deltage, men arrangementet henvender sig primært til førsteårsstuderende på programmeringskurser på de højere læreanstalter og gymnasiet.
-
 Formålet med D-Pop er at 
 
 * markant udbrede *kendskab* til og *interesse for* problemløsning og programmering i Danmark 
@@ -16,14 +13,12 @@ Formålet med D-Pop er at
 # Hvem?
 
 D-Pop er lavet af Thore Husfeldt, professor på ITU, som har hovedansvaret for koncept og indhold.
-Thore får både formel og uformel hjælp af en masse organisationer og enkeltpersoner, inklusive datalogiinstitutterne, Jobindex og Kattis.
-
-Ansvaret for de lokale arrangementer er spredt ud over lokale værter, se [kendte arrangementer](/arrangementer/) eller vær med og [bliv vært](/vært/) selv.
+Thore får både formel og uformel hjælp af en masse organisationer og enkeltpersoner, inklusive datalogiinstitutterne, Jobindex, Kattis og Forskningscenteret BARC.
 
 ## Problemkomité 
 
 Udviklingen af *indhold* til D-Pop, dvs. de problemer, som deltagerne møder under arrangementet, gøres af en problemkomité.
-I 2020-2021 består komitéen af
+Til D-Pop 2021 består komitéen af
 
 * Thore Husfeldt (formand)
 * Asger Hautop Drewsen 
@@ -31,21 +26,10 @@ I 2020-2021 består komitéen af
 * Troels Bjerre Lund
 * Rasmus Pagh
 
-# Hvad gør hovedarrangøren?
-
-Hovedarrangørens opgave er at 
-
-* der findes 8 problemer på dpop21.kattis.com kl. 15, d. 23. april 2021
-* der findes mulighed for at deltagere kan forberede sig inden arrangmentet ved at løse beslægtede problemer på [dpopopvarmning.kattis.com](dpopopvarmning.kattis.com). 
-* der produceres noget trykt undervisnings- og forberedelsesmateriale i relation til problemerne, gerne også for d-popstjernerne.
-* der holdes kontakt til lokale arrangører
-* der gøres reklame for D-Pop på landsniveau
-* der skabes en visuel identitet
-* navneskilte, t-shirts, plakater, osv. inden for budgetrammerne.
-
 # Værdier og principper
 
-D-Pops kerneværdier er problemløsning, samarbejde, programmering, oplysning, åbenhed, ærlighed, tilgængelighed, hjælpsomhed og kompetence.
+D-Pops kerneværdier er  oplysning, åbenhed, ærlighed, tilgængelighed, hjælpsomhed og kompetence.
+Kompetencerne er problemløsning, samarbejde, og programmering.
 Som konsekvens af nogle af disse værdier undgår D-Pop i modsætning til (udmærkede og hæderværdige) lignende arrangementer bevidst og udtrykkeligt konkurrenceaspektet. 
 Fokus er på *at løse problemerne*, ikke på at *vinde noget* eller *slå nogen*.
 Relationen til andre skal være *som allieret* i opgaven et løse et problem (fx »min holdkammerat« eller »nogen der ved mere end mig og kan hjælpe mig« eller »nogen jeg kan hjælpe«), aldrig *som modstander*.
