@@ -26,7 +26,7 @@ Se [listen af programmeringssprog på Kattis](https://open.kattis.com/help/).
 
 ## Hvor er det henne?
 
-Problemerne vil være på `dpop2020.kattis.com`.
+Problemerne vil være på `dpop2021.kattis.com`.
 
 I 2021 sker det hele online, så platformen for interaktion er D-Pops Discord på
 [discord.gg/pHYT4g3p](https://discord.gg/pHYT4g3p).
