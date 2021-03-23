@@ -25,8 +25,9 @@ D-Pop 2021 sker fredag, d. 23. april 2021, kl. 16–19 som del af [Forskningens 
 
 # Deltag
 
-Find to venner, medstuderende, klassekammerater eller kolleger.
+Find nogle venner, medstuderende, klassekammerater eller kolleger.
 I kan forberede jer, hvis I har lyst.
+Du må også gerne deltage alene.
 
 Læs mere på [deltager](/deltager/).
 
