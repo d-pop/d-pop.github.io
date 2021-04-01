@@ -29,7 +29,7 @@ Se [listen af programmeringssprog på Kattis](https://open.kattis.com/help/).
 Problemerne vil være på `dpop2021.kattis.com`.
 
 I 2021 sker det hele online, så platformen for interaktion er D-Pops Discord på
-[discord.gg/pHYT4g3p](https://discord.gg/pHYT4g3p).
+[discord.gg/WwgXnfbpKm](https://discord.gg/WwgXnfbpKm).
 Det er der, du kan snakke med andre og få hjælp af vores søde D-popstjerner.
 
 ## Forberedelse
