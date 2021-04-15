@@ -19,7 +19,7 @@ D-Pop 2021 sker fredag, d. 23. april 2021, kl. 16–19 som del af [Forskningens 
 
 * Vi _mødes_ på platformen Discord, invitationen til D-Pop er [discord.gg/WwgXnfbpKm](https://discord.gg/WwgXnfbpKm).
   Der kan vi snakke sammen, skrive beskeder, hjælpe med opgaver, dele skærm, osv.
-* Årets _opgaver_ vil være tilgængelige på `dpop2021.kattis.com` fredag, d. 23. april, kl. 16.
+* Årets _opgaver_ vil være tilgængelige på [dpop21.kattis.com](https://dpop21.kattis.com) fredag, d. 23. april, kl. 16.
 * Inden D-Pop kan man forberede sig ved at løse opgaver på [dpopopvarmning.kattis.com](https://dpopopvarmning.kattis.com).
   (Dem kan man snakke om, og få hjælp med, på D-Pops Discord i forvejen.)
 
