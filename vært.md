@@ -11,8 +11,9 @@ Det koster ingenting og man forpligter sig til ingenting.
 
 Et lokalt arrangement kan henvende sig til  5 deltagere eller 100 deltagere, det kan være åbent for offentligheden eller forbeholdt venner, kolleger, elever eller medlemmer. Det kan registrere deltagere eller lade være. 
 
-## Hvad du bør gøre
+Du kan kontakte D-Pop for at få adgang til forskellige former for markedsføringsmateriale, som fx t-shirts eller kopper.
 
+## Hvad du bør gøre
 
 Det skal være nemt at være vært for D-Pop.
 Men som minimum bør du
@@ -39,7 +40,7 @@ Deltagerne skal kunne komme ind og ud, gerne en halv time inden og efter arrange
 
 * gøre separat reklame for det lokale arrangement, så længe D-Pop-identiteten forbliver synlig.
 
-* I ugerne op til D-pop gøre opmærksom på opvarmningsøvelser på [dpopopvarmning.kattis.com](https://dpopopvarmning.kattis.com) (når den vel er i luften)
+* I ugerne op til D-pop gøre opmærksom på opvarmningsøvelser på [dpopopvarmning.kattis.com](https://dpopopvarmning.kattis.com).
 
 * Yde hjælp til opvarmingsøvelserne (så godt du nu kan)
 
