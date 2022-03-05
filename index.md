@@ -35,19 +35,17 @@ Læs mere på [deltager](/deltager/).
 I stedet for selv at deltage selv kan du _hjælpe andre_ videre under D-Pop.
 Du får problemerne på forhånd, sammen med vejledningsmateriale, og kan forberede dig.
 Perfekt for viderekomne studerende eller lærere.
-Du sender bare en anmodning på D-Pops Discord.
-(Kanalen hedder **#dpopstjerner** og rollen hedder **dpopstjerne**.) 
 
 Læs mere på [stjerne](/stjerne/).
 
 # For lærere
 
 Er du lærer i programmering?
-Du kan bruge D-Pop som undervisningsaktivitet, projekt eller åbent (virtuelt!) hus på datalogiinsitutterne.
+Du kan bruge D-Pop som undervisningsaktivitet, projekt eller åbent hus på datalogiinsitutterne.
 Din klasse eller dit hold (eller din projektgruppe) er _deltagere_.
 Du kan 
-* selv være D-popstjerne: Så får du opgaverne i forvejen og kan hjælpe dine egne elever under arrangementet. (Du kan også bruge materialet efter d. 23. Retningssystemet forbliver åbent. Der er stof til et hav af projekter.)
-* få knyttet en dpopstjerne til dit hold. Med lidt held kan vi finde nogen som kan din klasses programmeringssprog eller som er fra jeres lokale universitet, hvis nu eleverne overvejer at læse videre. Så kan I snakke studier med en ældre studerende. Vær sød at skrive på kanalen **#koordinering** i forvejen.
+* selv være D-popstjerne: Så får du opgaverne i forvejen og kan hjælpe dine egne elever under arrangementet. (Du kan også bruge materialet efter arrangementet. Retningssystemet forbliver åbent. Der er stof til et hav af projekter.)
+* få knyttet en dpopstjerne til dit hold. Med lidt held kan vi finde nogen som kan din klasses programmeringssprog eller som er fra jeres lokale universitet, hvis nu eleverne overvejer at læse videre. Så kan I snakke studier med en ældre studerende. 
 * ikke gøre noget særligt. Bare mød op som deltager på lige fod med alle andre.
 
 ---
