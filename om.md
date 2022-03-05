@@ -13,18 +13,8 @@ Formålet med D-Pop er at
 # Hvem?
 
 D-Pop er lavet af Thore Husfeldt, professor på ITU, som har hovedansvaret for koncept og indhold.
-Thore får både formel og uformel hjælp af en masse organisationer og enkeltpersoner, inklusive datalogiinstitutterne, Jobindex, Kattis og Forskningscenteret BARC.
-
-## Problemkomité 
-
-Udviklingen af *indhold* til D-Pop, dvs. de problemer, som deltagerne møder under arrangementet, gøres af en problemkomité.
-Til D-Pop 2021 består komitéen af
-
-* Thore Husfeldt (formand)
-* Asger Hautop Drewsen 
-* Oskar Haarklou Veileborg 
-* Troels Bjerre Lund
-* Rasmus Pagh
+Thore får både formel og uformel hjælp af en masse organisationer og enkeltpersoner, inklusive datalogiinstitutterne, Kattis og Forskningscenteret BARC, diverse venner, studerende og kolleger.
+Tak til dem allesammen.
 
 # Værdier og principper
 

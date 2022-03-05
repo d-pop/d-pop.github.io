@@ -12,17 +12,13 @@ Den primære målgruppe er hold af tre personer, som har grundlæggene færdighe
 Men D-Pop er åbent for alle.
 Der skal være noget at tænke over, lære, og blive dygtigere på, uanset forudsætninger.
 
-# D-Pop 2021
+# D-Pop 2022
 
-D-Pop 2021 sker fredag, d. 23. april 2021, kl. 16–19 som del af [Forskningens Døgn 2021](https://forsk.dk).
-Årets arrangement er helt _online_:
+D-Pop 2022 sker fredag, d. 22. april 2022, som del af [Forskningens Døgn 2021](https://forsk.dk).
 
-* Vi _mødes_ på platformen Discord, invitationen til D-Pop er [discord.gg/WwgXnfbpKm](https://discord.gg/WwgXnfbpKm).
-  Der kan vi snakke sammen, skrive beskeder, hjælpe med opgaver, dele skærm, osv.
-* Årets _opgaver_ vil være tilgængelige på [dpop21.kattis.com](https://dpop21.kattis.com) fredag, d. 23. april, kl. 16.
-* _Løsningsgennemgang_ efter D-Pop er på Zoom: [Zoommøde kl. 19-20](https://itucph.zoom.us/j/67455856350)
-* Inden D-Pop kan man forberede sig ved at løse opgaver på [dpopopvarmning.kattis.com](https://dpopopvarmning.kattis.com).
-  (Dem kan man snakke om, og få hjælp med, på D-Pops Discord i forvejen.)
+* Årets _opgaver_ vil være tilgængelige på [dpop22.kattis.com](https://dpop22.kattis.com) fredag, d. 22. april 2022, kl. 16-18.
+
+Se også [tidligere D-Pop](tidligere).
 
 # Deltag
 
