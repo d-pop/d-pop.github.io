@@ -26,19 +26,20 @@ Se [listen af programmeringssprog på Kattis](https://open.kattis.com/help/).
 
 ## Hvor er det henne?
 
-Problemerne kan findes på dommeren [dpop21.kattis.com](https://dpop21.kattis.com) fredag d. 23. april kl. 16.
+Problemerne kan findes på dommeren [dpop22.kattis.com](https://dpop22.kattis.com) fredag d. 22. april 2022 kl. 16.
 
-I 2021 sker det hele online, så platformen for interaktion er D-Pops Discord på
-[discord.gg/WwgXnfbpKm](https://discord.gg/WwgXnfbpKm).
-Det er der, du kan snakke med andre og få hjælp af vores søde D-popstjerner.
+IT-Universitetet i København afholder et åbent D-Pop-arrangement 
+* fredag d. 22. april 2022, kl. 15–18.
+Alle er velkomne.
+Nogle af ITUs søde og dygtige studerende står til rådighed med hjælp og vejledning som _d-popst
+jerner_.
+Spørg os om alt muligt.
 
 ## Forberedelse
 
 Hvis I har lyst til at forberede jer, mest for at sikre at de tekniske detaljer er på plads til arrangemtet, kan I gøre det på [dpopopvarmning.kattis.com](https://dpopopvarmning.kattis.com).
-Begynd med »Hej verden!«, »Forskel« og »Gæt et tal«.
+Begynd med »Hej verden!«, »Skru up!«, »Forskel« og »Gæt et tal«.
 Fortsæt med »Chokoladeæsken«.
 Der er masser af andre problemer – mange af dem så svære, at I garanteret ikke kan løse dem.
 
 Kattis-platformen har gode hjælpesider for de relevante programmeringssprog, som blandt andet indeholder en mønsterløsning for »Forskel«.
-
-Kørt fast? I spørger bare på D-Pops Discord, **#hjælpmig**. 
