@@ -3,8 +3,15 @@ layout: lecture
 title: Arrangementer
 ---
 
-D-Pop 2020 blev desværre aflyst på grund af Covid-19. 
+D-Pop bliver i år afoldt flere forskellige steder i landet. 
 
-Vi håber på at kunne arrangere D-Pop i 2021. På denne side vil du da kunne finde en liste af lokale arrangører.
+Her vil du have mulighed for at dukke op og løse årets opgaver og få hjælp af >>D-Popstjerner<<
+
+Her ses listen over D-Pop 2022 arrangementer: 
+* IT-Universiet København 
+* DTU 
+* HTX ved EUC-syd i Aabenraa 
+
+Hvis du gerne vil være vært til D-Pop så send en mail til os på nykr@itu.dk 
 
 
