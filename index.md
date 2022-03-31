@@ -17,10 +17,9 @@ Der skal være noget at tænke over, lære, og blive dygtigere på, uanset forud
 D-Pop 2022 sker fredag, d. 22. april 2022, som del af [Forskningens Døgn 2022](https://forsk.dk).
 
 * Årets _opgaver_ vil være tilgængelige på [dpop22.kattis.com](https://dpop22.kattis.com) fredag, d. 22. april 2022, kl. 16-18.
+* Der er åbne D-Pop arrangementer på IT-Universitetet i København ITU, Danmarks Tekniske Universitet DTU, og HTX ved EUC-Syd i Aabenraa. Se mere under [Arrangementer](/arrangementer/).
 * Nynne Grauslund Kristiansen er projektleder og står får den organisatoriske del af D-Pop.
 * Problemkomitéen er Alice Ryhl, Asger Hautop Drewsen, Oskar Haarklou Veileborg, Troels Bjerre Lund og Thore Husfeldt (formand).
-* Der er et åbent D-Pop arrangement på IT-Universitetet i København.
-* Der er et åbent D-Pop arrangement på HTX ved EUC-Syd i Aabenraa.
 * D-Pop 2022 er delvist finansieret af forskningscentrene [Direc](https://direc.dk) og [BARC](https://barc.ku.dk).
 
 Se også [tidligere D-Pop](tidligere).

@@ -3,15 +3,15 @@ layout: lecture
 title: Arrangementer
 ---
 
-D-Pop bliver i år afoldt flere forskellige steder i landet. 
+D-Pop 2022 bliver afoldt flere forskellige steder i landet, hvor alle er velkomne.
 
-Her vil du have mulighed for at dukke op og løse årets opgaver og få hjælp af >>D-Popstjerner<<
+Her vil du have mulighed for at dukke op og løse årets opgaver og få hjælp af de lokale »d-popstjerner«.
 
-Her ses listen over D-Pop 2022 arrangementer: 
-* IT-Universiet København 
-* DTU 
+Her ses listen over de åbne D-Pop 2022 arrangementer: 
+* IT-Universiet København, Rued Langgaards Vej, København. Lokal vært Nynne Grauslund nykr@itu.dk.
+* Danmarks Tekniske Universitet. Lokal vært Inge Li Gørtz.
 * HTX ved EUC-syd i Aabenraa 
 
-Hvis du gerne vil være vært til D-Pop så send en mail til os på nykr@itu.dk 
+Hvis du gerne vil være vært til D-Pop så send e-post til os på nykr@itu.dk .
 
 
