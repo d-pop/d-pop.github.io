@@ -51,7 +51,7 @@ Hvis I har lyst, kan I også følge skridt-for-skridt-vejledningen forneden, som
 ## Brugerprofil på Kattis
 
 * Besøg [open.kattis.com](http://open.kattis.com)
-* Vælg »Log in« in højre øvre hjørne, følg instruktionerne
+* Vælg »Log in« in højre venstre hjørne, følg instruktionerne
 
 ## Første problem: Hello, World!
 
