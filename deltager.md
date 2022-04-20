@@ -126,11 +126,11 @@ rl.on('line', linje => {
 });
 ```
 
-## Fjerde problem: Odd echo
+## Fjerde problem: Odd Echo
 
 * Find `oddecho`
 
-Løsningen for testgruppe 2 kræver typekonvertering (indlæsningen er altid strenge), evnen at læse et variabel antal linjer, og en smule problemløsning (hvordan skelner vi lige linjer fra ulige?). Det kan gøres på mange måder.
+Løsningen for testgruppe 2 kræver typekonvertering (indlæsningen er altid strenge), evnen at læse et variabelt antal linjer, og en smule problemløsning (hvordan skelner vi lige linjer fra ulige?). Det kan gøres på mange måder.
 
 ```python3
 N = int(input())
