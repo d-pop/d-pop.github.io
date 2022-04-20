@@ -144,7 +144,7 @@ for _ in range(N):
 
 Javascriptløsningen er endnu mere omstændigt. Hændelseslytteren `rl` venter på hændelserne `line` (som skal håndteres anderledes første gang) og `close`. Det meste af programmets logik havner i kodestumpen for `close`.
 
-```
+```javascript
 const rl = require('readline').createInterface({input: process.stdin});
 
 rl.once('line', (førstelinje) => {
