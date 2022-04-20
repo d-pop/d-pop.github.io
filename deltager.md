@@ -43,3 +43,122 @@ Fortsæt med »Chokoladeæsken«.
 Der er masser af andre problemer – mange af dem så svære, at I garanteret ikke kan løse dem.
 
 Kattis-platformen har gode hjælpesider for de relevante programmeringssprog, som blandt andet indeholder en mønsterløsning for »Forskel«.
+
+# Første skridt på Åben Kattis
+
+Hvis I har lyst, kan I også følge skridt-for-skridt-vejledningen forneden, som taler jeg igennem platformen _Open Kattis_ og bruger Python eller Javascript. Hvis I har klaret de første to-tre problemer forneden, er I mere end klare til D-Pop.
+
+## Brugerprofil på Kattis
+
+* Besøg [open.kattis.com](http://open.kattis.com)
+* Vælg »Log in« in højre øvre hjørne, følg instruktionerne
+
+## Første problem: Hello, World!
+
+* Find kattisproblemet **Hello World!** (`hello`) enten ved at søge på Kattis eller direkte på [https://open.kattis.com/problems/hello](https://open.kattis.com/problems/hello). 
+* Læs problembeskrivelsen
+* Tryk _Submit_, derefter _Switch to Editor_
+* Her er to løsninger lige til at skrive af:
+
+Python:
+```python3
+print("Hello World!")
+```
+JavaScript (Node.js)
+```javascript
+console.log("Hello World!")
+```
+
+Vælg det rigtige programmeringssprog i højre hjørne, tryk på _Submit_.
+
+Du burde nu have fået dommen `Accepted`.
+
+Gå til din brugerprofil (højre øvre hjørne) og se alle dine indsendelser. Du kan altid gå tilbage til gamle indsendelser, ændre og sende forbedrede udgaver.
+
+
+## Andet problem: Echo Echo Echo
+
+* Find `echoechoecho`
+* Hvis du har en høj frustrationstærskel, brug kattiseditoren til også at løse dette problem
+* Bedre: gå til [https://onecompiler.com/javascript/](https://onecompiler.com/javascript/) henholdsvis [https://onecompiler.com/python/](https://onecompiler.com/python/). Hvis du har en udviklingsomgivelse på din egen maskine, bruger du bare den.
+* Skriv programmet i venstre vindue.
+* Skriv indlæsnigen (»Hello« eller »ECHO«) i vinduet »STDIN«, tryk på »RUN«.
+
+Pythonløsning:
+```python3
+skrig = input()
+print(skrig)
+print(skrig)
+print(skrig)
+```
+
+Javascriptløsningen er betydelig mere omstændig, fordi Javascript håndterer standardindlæsning ved brug af såkaldt hændelsesstyret programmering, hvilket fører til tre kryptiske første linjer. Detaljerne er uvæsentlige for os, men variablen `skrig` indeholder efter `=> {` værdien af inlæsningen, ganske som tildelingen `skrig = input()` gør i Python.
+```javascript
+const lytter = require("readline").createInterface({input: process.stdin});
+
+lytter.on('line', (skrig) => {
+	console.log(skrig);
+	console.log(skrig);
+	console.log(skrig);
+});
+```
+
+## Tredje problem: Stuck In A Time Loop
+
+Et godt næste problem er nu `timeloop`. Her er to skeletter, hvor der mangler kode ved `[...]`.  Først i Python:
+
+```python3
+N = int(input())
+for i in range(1, N + 1):
+    # [...]
+```
+
+Og i Javascript:
+
+```javascript
+const rl = require('readline').createInterface({input: process.stdin});
+
+rl.on('line', linje => {
+  const N = parseInt(linje);
+  for (let i = 1; i <= N; ++i) {
+    // [...]
+  }
+});
+```
+
+## Fjerde problem: Odd echo
+
+* Find `oddecho`
+
+Løsningen for testgruppe 2 kræver typekonvertering (indlæsningen er altid strenge), evnen at læse et variabel antal linjer, og en smule problemløsning (hvordan skelner vi lige linjer fra ulige?). Det kan gøres på mange måder.
+
+```python3
+N = int(input())
+ulige = True
+for _ in range(N):
+    linje = input()
+    if ulige:
+        print(linje)
+    ulige = not ulige
+```
+
+Javascriptløsningen er endnu mere omstændigt. Hændelseslytteren `rl` venter på hændelserne `line` (som skal håndteres anderledes første gang) og `close`. Det meste af programmets logik havner i kodestumpen for `close`.
+
+```
+const rl = require('readline').createInterface({input: process.stdin});
+
+rl.once('line', (førstelinje) => {
+    const N = parseInt(førstelinje);
+    var alle_ord = [];
+    rl.on('line', linje => { alle_ord.push(linje) });
+    rl.on('close', () => {
+        var ulige = true;
+        for (const ord of alle_ord) {
+          if (ulige)
+            console.log(ord);
+          ulige = !(ulige);
+        }
+    });
+});
+```
+
