@@ -13,7 +13,7 @@ Formålet med D-Pop er at
 # Hvem?
 
 D-Pop er lavet af Thore Husfeldt, professor på ITU, som har hovedansvaret for koncept og indhold.
-Thore får både formel og uformel hjælp af en masse organisationer og enkeltpersoner, inklusive datalogiinstitutterne, Kattis og Forskningscenteret BARC, diverse venner, studerende og kolleger.
+Thore får både formel og uformel hjælp af en masse organisationer og enkeltpersoner, inklusive datalogiinstitutterne, Kattis og Forskningscentrene [DIREC](https://direc.dk) og [BARC](http://barc.ku.dk), diverse venner, studerende og kolleger.
 Tak til dem allesammen.
 
 # Værdier og principper
