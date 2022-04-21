@@ -80,7 +80,7 @@ Gå til din brugerprofil (højre øvre hjørne) og se alle dine indsendelser. Du
 
 * Find `echoechoecho`
 * Hvis du har en høj frustrationstærskel, brug kattiseditoren til også at løse dette problem
-* Bedre: gå til [https://onecompiler.com/javascript/](https://onecompiler.com/javascript/) henholdsvis [https://onecompiler.com/python/](https://onecompiler.com/python/). Hvis du har en udviklingsomgivelse på din egen maskine, bruger du bare den.
+* Bedre: gå til [https://onecompiler.com/javascript/](https://onecompiler.com/javascript/) henholdsvis [https://onecompiler.com/python/](https://onecompiler.com/python/). Hvis du har et udviklingsmiljø på din egen maskine, bruger du bare den.
 * Skriv programmet i venstre vindue.
 * Skriv indlæsnigen (»Hello« eller »ECHO«) i vinduet »STDIN«, tryk på »RUN«.
 
