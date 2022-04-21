@@ -46,7 +46,7 @@ Kattis-platformen har gode hjælpesider for de relevante programmeringssprog, so
 
 # Første skridt på Åben Kattis
 
-Hvis I har lyst, kan I også følge skridt-for-skridt-vejledningen forneden, som taler jeg igennem platformen _Open Kattis_ og bruger Python eller Javascript. Hvis I har klaret de første to-tre problemer forneden, er I mere end klare til D-Pop.
+Hvis I har lyst, kan I også følge skridt-for-skridt-vejledningen forneden, som taler jeg igennem platformen _Open Kattis_ og bruger Python eller Javascript. Hvis I har klaret de første to-tre problemer forneden, er I mere end parate til D-Pop.
 
 ## Brugerprofil på Kattis
 
@@ -69,9 +69,9 @@ JavaScript (Node.js)
 console.log("Hello World!")
 ```
 
-Vælg det rigtige programmeringssprog i højre hjørne, tryk på _Submit_.
+Husk at angive det rigtige programmeringssprog i venstre hjørne, tryk på _Submit_.
 
-Du burde nu have fået dommen `Accepted`.
+Du burde nu have fået dommen `Accepted`. (Ellers: ret dine fejl, prøv igen.)
 
 Gå til din brugerprofil (højre øvre hjørne) og se alle dine indsendelser. Du kan altid gå tilbage til gamle indsendelser, ændre og sende forbedrede udgaver.
 
@@ -109,8 +109,10 @@ Et godt næste problem er nu `timeloop`. Her er to skeletter, hvor der mangler k
 
 ```python3
 N = int(input())
-for i in range(1, N + 1):
+i = 1
+while i <= N:
     # [...]
+    i = i + 1
 ```
 
 Og i Javascript:
@@ -120,8 +122,10 @@ const rl = require('readline').createInterface({input: process.stdin});
 
 rl.on('line', linje => {
   const N = parseInt(linje);
-  for (let i = 1; i <= N; ++i) {
+  let i = 1;
+  while (i <= N) {
     // [...]
+    i = i + 1;
   }
 });
 ```
