@@ -61,7 +61,7 @@ Hvis I har lyst, kan I også følge skridt-for-skridt-vejledningen forneden, som
 * Her er to løsninger lige til at skrive af:
 
 Python:
-```python3
+```python
 print("Hello World!")
 ```
 JavaScript (Node.js)
@@ -85,7 +85,7 @@ Gå til din brugerprofil (højre øvre hjørne) og se alle dine indsendelser. Du
 * Skriv indlæsnigen (»Hello« eller »ECHO«) i vinduet »STDIN«, tryk på »RUN«.
 
 Pythonløsning:
-```python3
+```python
 skrig = input()
 print(skrig)
 print(skrig)
@@ -107,7 +107,7 @@ lytter.on('line', (skrig) => {
 
 Et godt næste problem er nu `timeloop`. Her er to skeletter, hvor der mangler kode ved `[...]`.  Først i Python:
 
-```python3
+```python
 N = int(input())
 i = 1
 while i <= N:
@@ -136,7 +136,7 @@ rl.on('line', linje => {
 
 Løsningen for testgruppe 2 kræver typekonvertering (indlæsningen er altid strenge), evnen at læse et variabelt antal linjer, og en smule problemløsning (hvordan skelner vi lige linjer fra ulige?). Det kan gøres på mange måder.
 
-```python3
+```python
 N = int(input())
 ulige = True
 for _ in range(N):
@@ -146,23 +146,25 @@ for _ in range(N):
     ulige = not ulige
 ```
 
-Javascriptløsningen er endnu mere omstændigt. Hændelseslytteren `rl` venter på hændelserne `line` (som skal håndteres anderledes første gang) og `close`. Det meste af programmets logik havner i kodestumpen for `close`.
+Javascriptløsningen er endnu mere omstændigt. Løsningens logik havner i kodestumpen for `løs_problemet`.
 
 ```javascript
 const rl = require('readline').createInterface({input: process.stdin});
 
-rl.once('line', (førstelinje) => {
-    const N = parseInt(førstelinje);
-    var alle_ord = [];
-    rl.on('line', linje => { alle_ord.push(linje) });
-    rl.on('close', () => {
-        var ulige = true;
-        for (const ord of alle_ord) {
-          if (ulige)
-            console.log(ord);
-          ulige = !(ulige);
-        }
-    });
-});
+var indlæsning = [];
+rl.on('line', linje => { indlæsning.push(linje) });
+rl.on('close', () => { løs_problemet() });
+
+function løs_problemet() {
+	const N = parseInt(indlæsning[0]);
+	let ulige = true;
+	let i = 1;
+	while (i <= N) {
+		if (ulige)
+			console.log(indlæsning[i]);
+		ulige = !(ulige);
+		i = i + 1;
+	}
+}
 ```
 
