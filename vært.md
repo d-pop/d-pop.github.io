@@ -11,7 +11,7 @@ Det koster ingenting og man forpligter sig til ingenting.
 
 Et lokalt arrangement kan henvende sig til  5 deltagere eller 100 deltagere, det kan være åbent for offentligheden eller forbeholdt venner, kolleger, elever eller medlemmer. Det kan registrere deltagere eller lade være. 
 
-Du kan kontakte Nynne Grauslund Kristiansen på nykr@itu.dk for at få adgang til forskellige former for markedsføringsmateriale, som fx t-shirts eller kopper.
+Du kan kontakte Katrine Sandø på kmsa@itu.dk for at få adgang til forskellige former for markedsføringsmateriale, som fx t-shirts eller kopper.
 
 ## Hvad du bør gøre
 

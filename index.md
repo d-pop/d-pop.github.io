@@ -12,15 +12,16 @@ Den primære målgruppe er hold af tre personer, som har grundlæggene færdighe
 Men D-Pop er åbent for alle.
 Der skal være noget at tænke over, lære, og blive dygtigere på, uanset forudsætninger.
 
-# D-Pop 2022
+# D-Pop 2023
 
-D-Pop 2022 sker fredag, d. 22. april 2022, som del af [Forskningens Døgn 2022](https://forsk.dk).
+D-Pop 2023 sker onsdag, d. 26. april 2023, som del af [Forskningens Døgn 2023](https://forsk.dk).
 
-* Årets _opgaver_ vil være tilgængelige på [dpop22.kattis.com](https://dpop22.kattis.com) fredag, d. 22. april 2022, kl. 16-18.
+* Årets _opgaver_ vil være tilgængelige på [dpop23.kattis.com](https://dpop23.kattis.com) onsdag, d. 22. april 2023, kl. 15-18.
 * Der er åbne D-Pop arrangementer på IT-Universitetet i København ITU, Danmarks Tekniske Universitet DTU, og HTX ved EUC-Syd i Aabenraa. Se mere under [Arrangementer](/arrangementer/).
-* Nynne Grauslund Kristiansen er projektleder og står får den organisatoriske del af D-Pop.
-* Problemkomitéen er Alice Ryhl, Asger Hautop Drewsen, Oskar Haarklou Veileborg, Troels Bjerre Lund og Thore Husfeldt (formand).
-* D-Pop 2022 er delvist finansieret af forskningscentrene [Direc](https://direc.dk) og [BARC](https://barc.ku.dk).
+* Katrine Sandø er projektleder og står får den organisatoriske del af D-Pop.
+* Thore Husfeldt, professor på ITU og har hovedansvaret for koncept og indhold.
+<!-- * Problemkomitéen er Alice Ryhl, Asger Hautop Drewsen, Oskar Haarklou Veileborg, Troels Bjerre Lund og Thore Husfeldt (formand). - To be announced -->
+* D-Pop 2023 er delvist finansieret af forskningscentrene [Direc](https://direc.dk) og [BARC](https://barc.ku.dk).
 
 Se også [tidligere D-Pop](tidligere).
 
