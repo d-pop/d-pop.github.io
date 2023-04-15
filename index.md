@@ -36,7 +36,6 @@ Herunder findes en liste over navnene på årets opgaver
 * MGP
 * Mie og Fie
 * Store bededag
-* Væltet skorsten
 
 
 # Deltag
