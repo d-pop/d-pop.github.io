@@ -26,10 +26,10 @@ Se [listen af programmeringssprog på Kattis](https://open.kattis.com/help/).
 
 ## Hvor er det henne?
 
-Problemerne kan findes på dommeren [dpop22.kattis.com](https://dpop22.kattis.com) onsdag d. 26. april 2023 kl. 15.
+Årets _opgaver_ er tilgængelige på dommeren [dpop23.kattis.com](https://dpop23.kattis.com) fra fredag, d. 21. april 2023, kl. 8.
 
 IT-Universitetet i København afholder et åbent D-Pop-arrangement 
-* onsdag d. 26. april 2023, kl. 15–18.
+* onsdag d. 26. april 2023, kl. 15–17.
 Alle er velkomne.
 Nogle af ITUs søde og dygtige studerende står til rådighed med hjælp og vejledning som _d-popst
 jerner_.

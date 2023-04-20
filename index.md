@@ -19,15 +19,15 @@ D-Pop 2023 foregår under [Forskningens Døgn 2023](https://forsk.dk).
 * Årets _opgaver_ er tilgængelige på [dpop23.kattis.com](https://dpop23.kattis.com) fra fredag, d. 21. april 2023, kl. 8. Bestem selv hvornår, det tager 2 timer fra I vælger “start contest”.
 * Der er åbne D-Pop arrangementer på IT-Universitetet i København ITU på onsdag d. 26. april 2023, og på Aarhus Universitet. Se mere under [Arrangementer](/arrangementer/).
 * Katrine Sandø er projektleder og står får den organisatoriske del af D-Pop.
-* Thore Husfeldt, professor på ITU og har hovedansvaret for koncept og indhold.
-* Problemkomitéen er Asger Hautop Drewsen, Jakob Uttenthal Israelsen, Oskar Haarklou Veileborg og Thore Husfeldt (formand). - To be announced
+* Thore Husfeldt er professor på ITU og har hovedansvaret for koncept og indhold.
+* Problemkomitéen er Asger Hautop Drewsen, Jakob Uttenthal Israelsen, Oskar Haarklou Veileborg og Thore Husfeldt (formand).
 * D-Pop 2023 er delvist finansieret af forskningscentrene [Direc](https://direc.dk) og [BARC](https://barc.ku.dk).
 
 Se også [tidligere D-Pop](tidligere).
 
 # Årets Opgaver
 Herunder findes en liste over navnene på årets opgaver
-- Navne på opgaver(punkt form) - Opgaver- lavet- af
+<!-- - Navne på opgaver(punkt form) - Opgaver- lavet- af -->
 * Carmen Curlers	
 * Cirkelmeme	
 * Gåsegang
