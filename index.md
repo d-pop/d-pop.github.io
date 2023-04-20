@@ -27,7 +27,6 @@ Se også [tidligere D-Pop](tidligere).
 
 # Årets Opgaver
 Herunder findes en liste over navnene på årets opgaver
-- Navne på opgaver(punkt form) - Opgaver- lavet- af
 * Carmen Curlers	
 * Cirkelmeme	
 * Gåsegang
