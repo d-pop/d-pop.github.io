@@ -14,4 +14,4 @@ Det er en god idé, at du har styr på interaktionen med Kattisplatformen.
 
 Du får adgang til nogle af problembeskrivelserne på forhånd, samt til mønsterløsninger.
 
-Den nemmeste måde at blive d-popstjerne på er at sende en besked til Nynne Grauslund.
+Den nemmeste måde at blive d-popstjerne på er at sende en besked til Katrine Sandø (kmsa@itu.dk).
