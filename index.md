@@ -20,7 +20,7 @@ D-Pop 2023 foregår under [Forskningens Døgn 2023](https://forsk.dk).
 * Der er åbne D-Pop arrangementer på IT-Universitetet i København ITU på onsdag d. 26. april 2023, og på Aarhus Universitet. Se mere under [Arrangementer](/arrangementer/).
 * Katrine Sandø er projektleder og står får den organisatoriske del af D-Pop.
 * Thore Husfeldt, professor på ITU og har hovedansvaret for koncept og indhold.
-* Problemkomitéen er Asger Hautop Drewsen, Jakob Uttenthal Israelsen, Oskar Haarklou Veileborg og Thore Husfeldt (formand). - To be announced
+* Problemkomitéen er Asger Hautop Drewsen, Jakob Uttenthal Israelsen, Oskar Haarklou Veileborg og Thore Husfeldt (formand).
 * D-Pop 2023 er delvist finansieret af forskningscentrene [Direc](https://direc.dk) og [BARC](https://barc.ku.dk).
 
 Se også [tidligere D-Pop](tidligere).
