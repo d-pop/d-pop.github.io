@@ -4,6 +4,25 @@ title: Tidligere D-Pop
 ---
 
 Man kan tilgå problemerne fra tidligere D-Poparrangementer på [dpopopvarmning.kattis.com](https://dpopopvarmning.kattis.com).
+# D-Pop 2023
+D-Pop 2023 fandt sted 
+* onsdag d. 26. april 2023, kl. 15–17 som del af _Forskningens døgn 2023_.
+* På Kattis: [dpop22.kattis.com](https://dpop22.kattis.com)
+
+Steder var afholdte åbnet arrangement for D-Pop 2022: 
+* IT-Universiet København, Rued Langgaards Vej, København. Lokal Vært Katrine Martos Sandø
+* Institut for Datalogi Aarhus Universitet. Lokal vært Oskar Haarklou Veileborg
+
+Problemkomitéen for D-Pop 2023 var
+
+* Thore Husfeldt (formand)
+* Asger Hautop Drewsen
+* Jakob Uttenthal Israelsen
+* Oskar Haarklou Veileborg
+
+D-Pop 2023 er delvist finansieret af forskningscentrene [Direc](https://direc.dk) og [BARC](https://barc.ku.dk).
+
+
 # D-Pop 2022
 D-Pop 2022 fandt sted 
 * fredag d. 22. april 2022, kl. 16–18 som del af _Forskningens døgn 2022_.

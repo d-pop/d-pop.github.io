@@ -12,21 +12,23 @@ Den primære målgruppe er hold af tre personer, som har grundlæggene færdighe
 Men D-Pop er åbent for alle.
 Der skal være noget at tænke over, lære, og blive dygtigere på, uanset forudsætninger.
 
-# D-Pop 2023
+# D-Pop 2024
+D-Pop 2024 er ved at blive planlagt.
 
-D-Pop 2023 foregår under [Forskningens Døgn 2023](https://forsk.dk).
+D-Pop 2024 foregår under [Forskningens Døgn 2024](https://forsk.dk).
 
-* Årets _opgaver_ er tilgængelige på [dpop23.kattis.com](https://dpop23.kattis.com) fra fredag, d. 21. april 2023, kl. 8. Bestem selv hvornår, det tager 2 timer fra I vælger »start contest timer«.
-* Der er åbne D-Pop arrangementer på IT-Universitetet i København ITU på onsdag d. 26. april 2023, og på Aarhus Universitet. Se mere under [Arrangementer](/arrangementer/).
+<!-- %TODO: Insert new link * Årets _opgaver_ er tilgængelige på [dpop23.kattis.com](https://dpop23.kattis.com) fra fredag, d. 19. april 2024, kl. 8. Bestem selv hvornår, det tager 2 timer fra I vælger »start contest timer«. -->
+<!-- %TODO: Insert participating places* Der er åbne D-Pop arrangementer på IT-Universitetet i København ITU på fredag d. 19. april 2024, og på Aarhus Universitet. Se mere under [Arrangementer](/arrangementer/). -->
 * Katrine Sandø er projektleder og står får den organisatoriske del af D-Pop.
 * Thore Husfeldt, professor på ITU og har hovedansvaret for koncept og indhold.
 * Problemkomitéen er Asger Hautop Drewsen, Jakob Uttenthal Israelsen, Oskar Haarklou Veileborg og Thore Husfeldt (formand).
-* D-Pop 2023 er delvist finansieret af forskningscentrene [Direc](https://direc.dk) og [BARC](https://barc.ku.dk).
+<!-- %TODO: Insert new sponsors when found * D-Pop 2023 er delvist finansieret af forskningscentrene [Direc](https://direc.dk) og [BARC](https://barc.ku.dk). -->
 
 Se også [tidligere D-Pop](tidligere).
 
 # Årets Opgaver
-Herunder findes en liste over navnene på årets opgaver
+Herunder findes en liste over navnene på årets opgaver når de er klar
+<!-- Navnene på sidste års opgaver
 * Carmen Curlers	
 * Cirkelmeme	
 * Gåsegang
@@ -34,7 +36,7 @@ Herunder findes en liste over navnene på årets opgaver
 * Klassisk røveri
 * MGP
 * Mie og Fie
-* Store bededag
+* Store bededag -->
 
 
 # Deltag
