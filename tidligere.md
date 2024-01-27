@@ -62,12 +62,3 @@ Problemkomitéen for D-Pop 2021 var
 * Rasmus Pagh
 
 Arrangementet var formelt og uformlet støttet af de danske datalogiinstitutter, Jobindex, Kattis og Forskningscenteret BARC.
-
-# Presse
-Nyheder, pressemeddelelser og artikler vedrørende D-Pop.
-
-<span style="color:grey"><sub><sup>7. november 20231</sup></sub></span><br/>
-[Will Code for Drinks: Programmeringsfest med potentiale som breddesport](https://itu.dk/Om-ITU/Presse/Nyheder/2023/will-code-for-drinks)
-
-<span style="color:grey"><sub><sup>14. april 2021</sup></sub></span><br/>
-[D-Pop 2021 skal udbrede interessen for programmering i Danmark](https://itu.dk/Om-ITU/Presse/Nyheder/2021/D-Pop-2021)
