@@ -9,7 +9,7 @@ D-Pop 2023 fandt sted
 * onsdag d. 26. april 2023, kl. 15–17 som del af _Forskningens døgn 2023_.
 * På Kattis: [dpop23.kattis.com](https://dpop23.kattis.com)
 
-Steder var afholdte åbnet arrangement for D-Pop 2022: 
+Steder var afholdte åbnet arrangement for D-Pop 2023: 
 * IT-Universiet København, Rued Langgaards Vej, København. Lokal Vært Katrine Martos Sandø
 * Institut for Datalogi Aarhus Universitet. Lokal vært Oskar Haarklou Veileborg
 
