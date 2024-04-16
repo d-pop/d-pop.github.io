@@ -27,9 +27,8 @@ Se [listen af programmeringssprog på Kattis](https://open.kattis.com/help/).
 ## Hvor er det henne?
 
 Problemerne fra sidste år kan findes på [dpop23.kattis.com](https://dpop22.kattis.com).
-<!-- %TODO: Insert new Kattis link when ready 
-Problemerne kan findes på dommeren [dpop22.kattis.com](https://dpop22.kattis.com) fredag d. 19. april 2024 kl. 16.
- -->
+Problemerne kan findes på dommeren [dpop24.kattis.com](https://dpop24.kattis.com/) fredag d. 19. april 2024 kl. 16.
+
 IT-Universitetet i København afholder et åbent D-Pop-arrangement 
 * fredag d. 19. april 2024, kl. 16–18.
 Alle er velkomne.

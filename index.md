@@ -15,7 +15,7 @@ Der skal være noget at tænke over, lære, og blive dygtigere på, uanset forud
 # D-Pop 2024
 D-Pop 2024 foregår under [Forskningens Døgn 2024](https://forsk.dk).
 
-<!-- %TODO: Insert new link * Årets _opgaver_ er tilgængelige på [dpop23.kattis.com](https://dpop23.kattis.com) fra fredag, d. 19. april 2024, kl. 8. Bestem selv hvornår, det tager 2 timer fra I vælger »start contest timer«. -->
+* Årets _opgaver_ er tilgængelige på [dpop24.kattis.com](https://dpop24.kattis.com/) fra fredag, d. 19. april 2024, kl. 8. Bestem selv hvornår, det tager 2 timer fra I vælger »start contest timer«.
 * Der er åbne D-Pop arrangementer på IT-Universitetet i København ITU på **fredag d. 19. april 2024 kl. 16-18**, på Aarhus Universitet, Aalborg Universitet, DTU, Ørestad Gymnasie og Teknisk Gymnasie Hillerød. Se mere under [Arrangementer](/arrangementer/) for tidspunkter og datoer.
 * Katrine Sandø er projektleder og står får den organisatoriske del af D-Pop.
 * Thore Husfeldt, professor på ITU og har hovedansvaret for koncept og indhold.
